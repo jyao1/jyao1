@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jyao1
-- 👀 I’m interested in computer security.
+- 👀 I’m interested in computer security. See my profile at https://github.com/jyao1/pub.
 - 📫 How to reach me ... jiewen.yao@intel.com
 
 <!---
